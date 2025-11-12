@@ -15,7 +15,7 @@ function App() {
   return (
     <div className="p-4">
       <p className="font-bold">{message}</p>
-      <Button variant="default">Click Me</Button>
+      <Button variant="default">Click Me!</Button>
     </div>
   );
 }
